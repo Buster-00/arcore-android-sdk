@@ -63,6 +63,7 @@ public class AugmentedFacesActivity extends AppCompatActivity implements GLSurfa
 
   // Rendering. The Renderers are created here, and initialized when the GL surface is created.
   private GLSurfaceView surfaceView;
+  
 
   private boolean installRequested;
 
